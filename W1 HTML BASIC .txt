@@ -1,0 +1,73 @@
+ <html>
+<head>
+<title> Zerodha: Online brokerage platform for stock trading & investing
+</title>
+</head>
+<body>
+<img width:"150" src="logo.svg" </img>
+
+<span> Signup	
+</span>
+
+<span> About 
+</span>
+
+
+<span> Products
+</span>
+
+<span> Pricing
+</span>
+
+<span> Support 
+</span>
+
+
+
+
+<div id ="nav-icon3">
+<span>  
+</span>
+<span>  
+</span>
+<span>  
+</span>
+</div>
+
+
+<div>
+
+<center><img width:"500" src="photo.jpg"  </img>
+</center>
+
+</div>
+
+
+
+<div><center>
+ <h1> Invest in everything</h1>
+</center>
+</div>
+
+
+<div>
+
+<center>  Online platform to invest in stocks, derivatives, mutual funds, ETFs, bonds, and more.   </center>
+</div>
+
+<div> <center> <button> Sign up for free </button></center>
+</div>
+
+
+
+</>body
+
+
+
+
+
+
+
+
+
+</html>
